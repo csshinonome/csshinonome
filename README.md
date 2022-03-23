@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! I'm Huidong Jiang 😊 </h1>
-<h2 align="center">🚀 PhD Student in Computer Science | RIKEN | Tokyo Tech | Competitive Programmer  🚀</h2>
+<h3 align="center">🚀 PhD Student in Computer Science | RIKEN | Tokyo Tech | Competitive Programmer  🚀</h3>
 
 <!--<div>-->
 <!--<img width = "35%" align="right" alt="PIC" height="300px" src="https://jaxenter.com/wp-content/uploads/2019/09/shutterstock_753972046-768x512.jpg" />-->
