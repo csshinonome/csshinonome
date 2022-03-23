@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! I'm Huidong Jiang 👋 </h1>
+<h1 align="center">Hey there! I'm Huidong Jiang 😊 </h1>
 <h2 align="center">🚀 PhD Student in Computer Science | RIKEN | Tokyo Tech | Competitive Programmer  🚀</h2>
 
 <!--<div>-->
@@ -6,10 +6,10 @@
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
 
-  - 🤔 &nbsp; I’m currently a PhD student at Tokyo Institute of Technology, majoring in Computer Science. And I'm also a research part-timer in RIKEN AIP Center.
+  - 🐼 &nbsp; I’m currently a PhD student at Tokyo Institute of Technology. And I'm also a research part-timer in RIKEN AIP Center.
   - 🎓 &nbsp; Studying Computer Science.
   - 🌱 &nbsp; Learning more about Machine Learning, Tensor Network and Tensor Decomposition.
-  - 💼 &nbsp; Exploring new technologies and developing software solutions.
+  - 🏃 &nbsp; Exploring new technologies and developing software solutions.
   - ✍️ &nbsp; Pursuing Competitive Programming and Gaming as hobbies/side hustles.  
 <!--</div>--> 
 </div>
@@ -30,6 +30,7 @@
     <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <p>
   </div>
+<br />
+⭐️ From [CSShinonome](https://github.com/CSShinonome) </h3>
 
 
-⭐️ From [CSShinonome](https://github.com/CSShinonome)
