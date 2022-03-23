@@ -1,17 +1,17 @@
 <h1 align="center">Hey there! I'm Huidong Jiang 👋 </h1>
-<h3 align="center">🚀 PhD Student in Computer Science | RIKEN | Tokyo Tech | Devops | Competitive Programmer  🚀</h3>
+<h2 align="center">🚀 PhD Student in Computer Science | RIKEN | Tokyo Tech | Competitive Programmer  🚀</h2>
 
-<div>
+<!--<div>-->
 <!--<img width = "35%" align="right" alt="PIC" height="300px" src="https://jaxenter.com/wp-content/uploads/2019/09/shutterstock_753972046-768x512.jpg" />-->
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
 
-  - 🤔 &nbsp; I’m currently a PhD student at Tokyo Institute of Technology, majoring in Computer Science. And I'm a research part-timer in RIKEN AIP Center.
-  - 🎓 &nbsp; Studying Computer Science and Engineering.
-  - 🌱 &nbsp; Learning more about Machine Learning.
+  - 🤔 &nbsp; I’m currently a PhD student at Tokyo Institute of Technology, majoring in Computer Science. And I'm also a research part-timer in RIKEN AIP Center.
+  - 🎓 &nbsp; Studying Computer Science.
+  - 🌱 &nbsp; Learning more about Machine Learning, Tensor Network and Tensor Decomposition.
   - 💼 &nbsp; Exploring new technologies and developing software solutions.
   - ✍️ &nbsp; Pursuing Competitive Programming and Gaming as hobbies/side hustles.  
-</div> 
+<!--</div>--> 
 </div>
 
 <div>
