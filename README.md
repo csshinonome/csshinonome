@@ -1,8 +1,8 @@
 <h1 align="center">Hey there! I'm Huidong Jiang 😊 </h1>
 <h3 align="center">🚀 PhD Student in Computer Science | RIKEN | Tokyo Tech | Competitive Programmer  🚀</h3>
 
-<!--<div>-->
-<!--<img width = "35%" align="right" alt="PIC" height="300px" src="https://jaxenter.com/wp-content/uploads/2019/09/shutterstock_753972046-768x512.jpg" />-->
+<div>
+<img width = "40%" align="right" alt="PIC" height="40%" src="https://github.com/CSShinonome/CSShinonome/blob/main/Profile%20image.jpeg" />
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
 
