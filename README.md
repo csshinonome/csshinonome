@@ -4,7 +4,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 <div>
-<img width = "30%" align="right" alt="PIC" height="40%" src="https://github.com/CSShinonome/CSShinonome/blob/main/Profile%20image.jpeg" />
+<img width = "35%" align="right" alt="PIC" height="45%" src="https://github.com/CSShinonome/CSShinonome/blob/main/Profile%20image.jpeg" />
 
 <div align="left"> 
 
@@ -12,7 +12,7 @@
   - 🎓 &nbsp; Studying Computer Science.
   - 🌱 &nbsp; Learning more about Machine Learning, Tensor Network and Tensor Decomposition.
   - 🏃 &nbsp; Exploring new technologies and developing software solutions.
-  - ✍️ &nbsp; Pursuing Competitive Programming and Gaming as hobbies/side hustles.  
+  - ✍️ &nbsp; Pursuing Competitive Programming and Gaming as hobbies/side hustles. 
 </div>
 </div>
 
