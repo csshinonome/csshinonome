@@ -3,9 +3,9 @@
 
 <p align="center"> 
 <a> <img src="https://komarev.com/ghpvc/?username=CSShinonome" alt="CSShinonome" /> </a>
-<a href="https://www.linkedin.com/in/sulthannk/"><img alt="LinkedIn" src="https://img.shields.io/badge/-Sulthan_Mohaideen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sulthannk/"></a>
 <a href="https://twitter.com/huidongjiang"><img alt="Twitter" src="https://img.shields.io/badge/-Huidong Jiang-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/huidongjiang"></a>
 </p>
+
 <h3> 👨🏻‍💻 About Me </h3>
 <div>
 <img width = "40%" align="right" alt="PIC" height="65%" src="https://github.com/CSShinonome/CSShinonome/blob/main/Profile%20image.jpeg" />
