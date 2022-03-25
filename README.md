@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! I'm Huidong Jiang 😊 </h1>
+<h1 align="center">Hey there! I'm Huidong Jiang (姜 惠東) 😊 </h1>
 <h3 align="center">🚀 PhD Student in Computer Science | RIKEN | Tokyo Tech | Competitive Programmer  🚀</h3>
 
 <p align="center"> 
