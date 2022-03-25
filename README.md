@@ -16,7 +16,7 @@
   - 🌱 &nbsp; Learning more about **Machine Learning**, **Tensor Network** and **Tensor Decomposition**.
   - 🏃 &nbsp; Exploring new technologies and developing software solutions.
   - 🔥 &nbsp; Hobbies: **💻 Programming** | **🎧 Music** | **📖 Books** | **🎸 Guitar** 
-  - 🛹 &nbsp; Now I'm ** keeping fit** every day.
+  - 🛹 &nbsp; Now I'm **keeping fit** every day.
 	
 </div>
 </div>
