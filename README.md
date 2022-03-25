@@ -11,7 +11,7 @@
 <img width = "40%" align="right" alt="PIC" height="65%" src="https://github.com/CSShinonome/CSShinonome/blob/main/Profile%20image.jpeg" />
 <div align="left"> 
 
-  - 🐼 &nbsp; I’m currently a Master student at **Tokyo Institute of Technology**. And I'm also a research part-timer at **RIKEN AIP Center**.
+  - 🐼 &nbsp; I’m currently a master student at **Tokyo Institute of Technology**. And I'm also a research part-timer at **RIKEN AIP Center**.
   - 🎓 &nbsp; Majoring in **🖥️ Computer Science**.
   - 🌱 &nbsp; Learning more about **Machine Learning**, **Tensor Network** and **Tensor Decomposition**.
   - 🏃 &nbsp; Exploring new technologies and developing software solutions.
