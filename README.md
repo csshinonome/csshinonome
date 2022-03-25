@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! I'm Huidong Jiang (姜 惠東) 😊 </h1>
+<h1 align="center">Hey there! I'm Huidong Jiang！</h1>
 <h3 align="center">🚀 PhD Student in Computer Science | RIKEN | Tokyo Tech | Competitive Programmer  🚀</h3>
 
 <p align="center"> 
@@ -15,7 +15,8 @@
   - 🎓 &nbsp; Majoring in **🖥️ Computer Science**.
   - 🌱 &nbsp; Learning more about **Machine Learning**, **Tensor Network** and **Tensor Decomposition**.
   - 🏃 &nbsp; Exploring new technologies and developing software solutions.
-  - 🔥 &nbsp; Hobbies: **💻 Competitive Programming** | **🎧 Music** | **📖 Books**  
+  - 🔥 &nbsp; Hobbies: **💻 Programming** | **🎧 Music** | **📖 Books** | **🎸 Guitar** 
+  - 🎓 &nbsp; Now I'm **🛹 keeping fit** every day.
 	
 </div>
 </div>
