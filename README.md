@@ -22,7 +22,7 @@
 </div>
 
 <div>
-  <h3> 💻 Languages and Tools </h3>
+  <h3> 💻 Selected Languages and Tools </h3>
   <p>
     <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
     <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
