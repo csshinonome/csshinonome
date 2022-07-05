@@ -11,12 +11,17 @@
 <img width = "40%" align="right" alt="PIC" height="65%" src="https://github.com/CSShinonome/CSShinonome/blob/main/Profile%20image.jpeg" />
 <div align="left"> 
 
-  - 🐼 &nbsp; I’m currently a master student at **Tokyo Institute of Technology**. And I'm also a research part-timer at **RIKEN AIP Center**.
-  - 🎓 &nbsp; Majoring in **🖥️ Artifical Intelligence**.
-  - 🌱 &nbsp; Learning more about **Machine Learning**, **Tensor Network** and **Tensor Decomposition**.
-  - 🏃 &nbsp; Exploring new technologies and developing software solutions.
-  - 🔥 &nbsp; Hobbies: **💻 Programming** | **🎧 Music** | **📖 Books** | **🎸 Guitar** 
-  - 🛹 &nbsp; Now I'm **keeping fit** every day.
+  🐼 &nbsp; I’m currently a master student at **Tokyo Institute of Technology**. And I'm also a research part-timer at **RIKEN AIP Center**.
+	
+  🎓 &nbsp; Majoring in **🖥️ Artifical Intelligence**.
+	
+  🌱 &nbsp; Learning more about **Machine Learning**, **Tensor Network** and **Tensor Decomposition**.
+	
+  🏃 &nbsp; Exploring new technologies and developing software solutions.
+	
+  🔥 &nbsp; Hobbies: **💻 Programming** | **🎧 Music** | **📖 Books** | **🎸 Guitar** 
+	
+  🛹 &nbsp; Now I'm **keeping fit** every day.
 	
 </div>
 </div>
