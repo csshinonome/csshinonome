@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! I'm Huidong Jiang！</h1>
-<h3 align="center">🚀 Master Student in Computer Science | RIKEN | Tokyo Tech | Competitive Programmer  🚀</h3>
+<h3 align="center">🚀 Master Student in Computer Science | RIKEN | Tokyo Tech 🚀</h3>
 
 <p align="center"> 
 <a> <img src="https://komarev.com/ghpvc/?username=CSShinonome" alt="CSShinonome" /> </a>
