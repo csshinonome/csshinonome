@@ -26,27 +26,8 @@
 </div>
 </div>
 
-<!-- <div>
-  <h3> 💻 Selected Languages and Tools </h3>
-  <p>
-    <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-    <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-    <code><img width="10%" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
-    <code><img width="8%" src="https://www.vectorlogo.zone/logos/r-project/r-project-official.svg"></code>
-    <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-    <br />
-    <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
-    <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
-    <code><img width="10%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code>
-    <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-    <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <p>
-  </div> -->
-
 ## 🛠️ My favorite tools
-
 ### 👨‍💻 Programming and markup languages
-
 <p>
     <a href="#"><img alt="MIPS Assembly" src="https://custom-icon-badges.herokuapp.com/badge/Assembly-525252.svg?logo=asm-hex&logoColor=white"></a>
     <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
