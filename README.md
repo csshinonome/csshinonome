@@ -13,7 +13,7 @@
 
   🐼 &nbsp; I’m currently a master student at **Tokyo Institute of Technology**. And I'm also a research part-timer at **RIKEN AIP Center**.
 	
-  🎓 &nbsp; Majoring in **🖥️ Artifical Intelligence**.
+  🎓 &nbsp; Majoring in **Artifical Intelligence**.
 	
   🌱 &nbsp; Learning more about **Machine Learning**, **Tensor Network** and **Tensor Decomposition**.
 	
