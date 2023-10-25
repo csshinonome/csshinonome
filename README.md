@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! I'm Huidong Jiang！</h1>
+<h1 align="center">Hey there! I'm Shinonome！</h1>
 <h3 align="center">PhD Student in Computer Science | RIKEN | Tokyo Tech </h3>
 
 <p align="center"> 
