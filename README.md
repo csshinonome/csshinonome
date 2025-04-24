@@ -26,7 +26,7 @@
 </div>
 </div>
 
-## 🛠️ My favorite tools
+## 🛠️ Tools
 ### 👨‍💻 Programming and markup languages
 <p>
     <a href="#"><img alt="MIPS Assembly" src="https://custom-icon-badges.herokuapp.com/badge/Assembly-525252.svg?logo=asm-hex&logoColor=white"></a>
