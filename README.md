@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! I'm Shinonome！</h1>
-<h3 align="center">PhD Student in Artificiao Intelligence | Department of Computer Science | Science Tokyo </h3>
+<h3 align="center">PhD Student in Artificial Intelligence | Department of Computer Science | Science Tokyo </h3>
 
 <p align="center"> 
 <a> <img src="https://komarev.com/ghpvc/?username=CSShinonome" alt="CSShinonome" /> </a>
